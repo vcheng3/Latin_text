@@ -1,3 +1,3 @@
 # Latin_text
-PySpark Processing on very large Latin Text Data.
+PySpark Natural Language Processing on very large Latin Text Data.
 
